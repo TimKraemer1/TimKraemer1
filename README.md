@@ -16,8 +16,6 @@ Hi! My name is Tim Kraemer, and I am a current student at the University of Cali
   
 -------------------
   
-![TimKraemer1 github stats](https://github-readme-stats.vercel.app/api?username=TimKraemer1&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
 ![TimKraemer1 github streak](https://github-readme-streak-stats.herokuapp.com/?user=TimKraemer1&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
