@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hi! My name is Tim Kraemer, and I am a current student at the University of California - Santa Cruz studying Computer Engineering. I have interests in Web Development, Systems Development, General Programming, Machine Learning/AI, and Robotics, among others. Please feel free to look at my work and projects, and enjoy your stay :).
+Hi! My name is Tim Kraemer, and I am a current student at the University of California - Santa Cruz studying Computer Engineering. I have interests in Web Development, Systems Development, General Programming, Machine Learning/AI, and Robotics, among others. I also work in the JLab Smart Sensing Lab under Colleen Josephson here at UCSC! Please feel free to look at my work and projects, and enjoy your stay :).
 
 -------------------
 
