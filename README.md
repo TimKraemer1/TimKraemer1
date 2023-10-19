@@ -7,7 +7,7 @@ Hi! My name is Tim Kraemer, and I am a current student at the University of Cali
 
 ## Contact
 <a href="https://www.instagram.com/tim_krae/">![Instagram](https://img.shields.io/badge/Tim%20Kraemer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/a%20french%20guy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+</a> ![Discord](https://img.shields.io/badge/afrenchguy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 -------------------
 
