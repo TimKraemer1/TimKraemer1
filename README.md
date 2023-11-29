@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hi! My name is Tim Kraemer, and I am a current senior student at the University of California - Santa Cruz studying Computer Engineering. I have interests in Web Development, Systems Development, General Programming, Machine Learning/AI, and Robotics, among others. I am currently looking for an internship for the upcoming 2024 summer season. I also plan on joining a CSE masters program for Fall 2024. Please feel free to look at my work and projects, and enjoy your stay :).
+Hi! My name is Tim Kraemer, and I am a current senior student at the University of California - Santa Cruz studying Computer Engineering. I have interests in Web Development, Systems Development, General Programming, Machine Learning/AI, and Electronics, among others. I am currently looking for an internship for the upcoming 2024 summer season. I also plan on joining a CSE masters program for Fall 2024. Please feel free to look at my work and projects, and enjoy your stay :).
 
 -------------------
 
