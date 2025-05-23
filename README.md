@@ -1,21 +1,64 @@
 <div align="center">
-  
-## About
-Hi! My name is Tim Kraemer, and I am an incoming MSCS student at the University of California, San Diego. I have interests in Web Development, Systems Development, General Programming, and AI, among others. I am currently looking for an internship for the upcoming 2025 summer season. Please feel free to look at my work and projects, and enjoy your stay :).
+  <a href="https://www.linkedin.com/in/tim-krae/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="tikraemer@ucsd.edu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
--------------------
+###
 
-## Contact
-<a href="https://www.instagram.com/tim_krae/">![Instagram](https://img.shields.io/badge/Tim%20Kraemer-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a> ![Discord](https://img.shields.io/badge/afrenchguy-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+<h1 align="center">hey there, i'm Tim👋</h1>
 
--------------------
+###
 
-### Languages and Tools  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![C/C++](https://img.shields.io/badge/c%2Fc%2B%2B-%23239120.svg?style=for-the-badge&logo) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![MATLAB](https://img.shields.io/badge/matlab-%23000000.svg?style=for-the-badge&logo=matlab&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%2396246e.svg?style=for-the-badge&logo=Velog&logoColor=white)
-  
--------------------
-  
-![TimKraemer1 github streak](https://github-readme-streak-stats.herokuapp.com/?user=TimKraemer1&theme=radical&include_all_commits=true&count_private=true)
+<h3 align="left">👩‍💻  About Me</h3>
 
- <div>
+###
+
+<p align="left">I'm a CS masters student at UCSD, originally from the Bay Area. I completed my undergrad at UCSC.<br><br>- 📚 I'm currently learning Golang, PyTorch, and Deep Learning principles<br>- ⚡ In my free time I like to work on projects, rock climb, and play video games</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TimKraemer1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
