@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1000&width=1000&height=100&lines=Tim+Kraemer;SWE+Intern+%40+Deloitte+Tax;MS+Student+at+UCSD;Big+Dreamer;~158+cups+coffee+since+January+1)](https://git.io/typing-svg)
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
