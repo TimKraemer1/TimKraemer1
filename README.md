@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a CS masters student at UCSD, originally from the Bay Area. I completed my undergrad at UCSC studying Computer Engineering with a minor in Computer Science.<br><br>- 🤔I am interested in AI, Software Engineering, Computer Systems and Networks.<br>- 📚 I'm currently learning Golang, PyTorch, and Deep Learning principles.<br>- ⚡ In my free time I like to work on projects, rock climb, and play video games.</p>
+<p align="left">I'm a CS masters student at UCSD, originally from the Bay Area. I completed my undergrad at UCSC studying Computer Engineering with a minor in Computer Science.<br><br>- 🤔 I am interested in AI, Software Engineering, Computer Systems and Networks.<br>- 📚 I'm currently learning Golang, PyTorch, and Deep Learning principles.<br>- ⚡ In my free time I like to work on projects, rock climb, and play video games.</p>
 
 ###
 
