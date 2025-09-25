@@ -9,7 +9,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1000&width=1000&height=100&lines=Tim+Kraemer;SWE+Intern+%40+Deloitte+Tax;MS+Student+at+UCSD;Big+Dreamer;~240+cups+coffee+since+January+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1000&width=1000&height=100&lines=Tim+Kraemer;Ex+-+SWE+Intern+%40+Deloitte+Tax;MS+Student+at+UCSD;Big+Dreamer;~240+cups+coffee+since+January+1)](https://git.io/typing-svg)
 ###
 
 ### 🌐 Visit my website! 
@@ -19,7 +19,9 @@
 
 ###
 
-<p align="left">I'm a CS masters student at UCSD, originally from the Bay Area. I completed my undergrad at UCSC studying Computer Engineering with a minor in Computer Science.<br><br>- 🤔 I am interested in AI, Software Engineering, Computer Systems and Networks.<br>- 📚 I'm currently learning Golang, PyTorch, and Deep Learning principles.<br>- ⚡ In my free time I like to work on projects, rock climb, and play video games.</p>
+- Currently, I'm a MSCS Student at UC San Diego focusing on computer systems and AI/ML
+- Previous SWE Intern @ Deloitte Tax - Internal Microservice Communication Architecture
+- Alumni @ UCSC - Computer Engineering
 
 ###
 
