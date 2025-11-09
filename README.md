@@ -20,8 +20,8 @@
 ###
 
 - Currently, I'm a MSCS Student at UC San Diego focusing on computer systems and AI/ML
-- Previous SWE Intern @ Deloitte Tax - Internal Microservice Communication Architecture
-- Alumni @ UCSC - Computer Engineering
+- Previous SWE Intern @ Deloitte Tax - internal microservice communication architecture
+- Alumni @ UCSC - computer engineering w/ minor in robotics & control
 
 ###
 
