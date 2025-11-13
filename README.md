@@ -15,6 +15,8 @@
 ### 🌐 Visit my website! 
 [timkraemer.me](https://timkraemer.me)
 
+FYI: Alot of my current development is on private repositories.
+
 <h3 align="left">👨‍💻  About Me</h3>
 
 ###
