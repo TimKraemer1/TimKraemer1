@@ -21,8 +21,9 @@ FYI: Alot of my current development is on private repositories.
 
 ###
 
-- Currently, I'm a MSCS Student at UC San Diego focusing on computer systems and AI/ML
+- MSCS Alumni @ UC San Diego - focused on computer systems and AI/ML
 - Previous SWE Intern @ Deloitte Tax - internal microservice communication architecture
+- Previous student researcher @ JLab Sensing
 - Alumni @ UCSC - computer engineering w/ minor in robotics & control
 
 ###
