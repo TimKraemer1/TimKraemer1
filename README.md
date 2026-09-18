@@ -21,6 +21,7 @@ FYI: Alot of my current development is on private repositories.
 
 ###
 
+- SWE @ Google - Google RCS Infra & Tooling
 - MSCS Alumni @ UC San Diego - focused on computer systems and AI/ML
 - Previous SWE Intern @ Deloitte Tax - internal microservice communication architecture
 - Previous student researcher @ JLab Sensing
