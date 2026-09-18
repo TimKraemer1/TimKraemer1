@@ -9,7 +9,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1000&width=1000&height=100&lines=Tim+Kraemer;Ex+-+SWE+Intern+%40+Deloitte+Tax;MS+Student+at+UCSD;Big+Dreamer;~240+cups+coffee+since+January+1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1000&width=1000&height=100&lines=Tim+Kraemer;Big+Dreamer;~400+cups+coffee+since+January+1)](https://git.io/typing-svg)
 ###
 
 ### 🌐 Visit my website! 
